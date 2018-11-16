@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Hello from './Hello.jsx';
+import Hello from './hello-component/Hello.jsx';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<Hello />, document.getElementById('root'));

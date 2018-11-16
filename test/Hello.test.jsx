@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Hello from './Hello.jsx';
+import Hello from '../src/Hello.jsx';
 
 it('renders without crashing', () => {
   const div = document.createElement('div');
